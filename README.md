@@ -1,2 +1,1 @@
-# t_detective
-A clever bot that helps Identify frequent users of the darker corners of Reddit
+t_detective is a reddit bot that will search through a user's history and report back info if that user is an active member of /r/t_d, /r/redpill, ...
